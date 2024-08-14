@@ -1,5 +1,5 @@
 # S3 Fastapi
-Expose Swagger Inferface For S3 endpoint
+Expose Swagger Inferface For Compatible S3 endpoint
 
 ## How it works?
 Exposing Swagger Interface for S3 to list/put/remove buckets/objects.
@@ -17,4 +17,6 @@ awscli package installed
 1. by itself 
 2. via every Web UI that can run HTTP command and get json object back (same as python requests)
 
+## Test
+for now, tested on compatible s3 server without ssl
   ALL RIGHT RESERVER ## USE WITH CAUTION
