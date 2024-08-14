@@ -13,5 +13,8 @@ awscli package installed
   then run fastapimain.py that expose Swagger web UI on that server via port 8000 (all of this can be change inside py file in main function
   access doc swagger using browser and surf to "http://<server-ip>:8000/docs" or "http://<server-ip>:8000/docs"
 
+# USES
+1. by itself
+2. via every Web UI that can run HTTP command and get json object back (same as python requests)
 
   ALL RIGHT RESERVER ## USE WITH CAUTION
